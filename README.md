@@ -1,4 +1,4 @@
-This repository implements a CNN to classify fashion articles fromthe Fashion-MNIST dataset according to the
+This repository implements a CNN to classify fashion articles from the Fashion-MNIST dataset according to the
 following specifications:
 
 • Input layer: a 28x28x1 image (the 1 specifies a grayscale image)
@@ -12,4 +12,4 @@ filter size
 • Sixth hidden layer: A dense (fully-connected) layer consisting of 100 perceptrons
 • Seventh hidden layer: A dense (fully-connected) layer consisting of 100 perceptrons
 • Output layer (classification probabilites): 10 perceptrons
-• Model is trained the model using 100 epochs.
+• Model is trained using 100 epochs.
